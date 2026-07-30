@@ -13,7 +13,7 @@ class operation
         return a-b;
     }
 }
-public class Main
+public class Oops_class_object_encapsulation
 {
 	public static void main(String[] args) {
 	    operation op=new operation();

@@ -14,7 +14,7 @@ class operations
         return a+b+c+d;
     }
 }
-public class Main
+public class MethodOverloading
 {
 	public static void main(String[] args) {
 	    operations ops=new operations();

@@ -1,6 +1,6 @@
 //imp of stack using queue
 import java.util.*;
-public class  Main
+public class  StackImplementation
 {
     public static class stack
     {

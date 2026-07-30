@@ -1,5 +1,5 @@
 //distributed books
-public class Main {
+public class DistributedBooks {
     public static int distributeBooks(int n) {
         int MOD = 1000000007;
         if (n == 1) {

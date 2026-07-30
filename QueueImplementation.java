@@ -1,5 +1,5 @@
 import java.util.*;
-public class  Main
+public class QueueImplementation
 {
     public static class queue
     {

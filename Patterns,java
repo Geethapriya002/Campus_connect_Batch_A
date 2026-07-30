@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main
+public class Patterns
 {
     static int min(int a,int b,int c,int d)
     {

@@ -13,7 +13,7 @@ class operation
         return a-b;
     }
 }
-public class Main
+public class MethodOverriding
 {
 	public static void main(String[] args) {
 	    operation op=new operation();

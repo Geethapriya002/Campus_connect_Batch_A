@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main
+public class DaysRemaining
 {
     public static void main(String[] args) {
  	    int d,m,y,sum =0;

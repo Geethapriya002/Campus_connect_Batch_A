@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class Factorial{
 public static int factorial(int n){
     int fact;
     if(n <= 1){
