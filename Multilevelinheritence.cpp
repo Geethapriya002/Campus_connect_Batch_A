@@ -23,7 +23,7 @@ class abcd :public class abc
    
 };
 
-class abcde :public class abcs
+class abcde :public class abcd
 {
     public :
     void operate(int a,int b)
